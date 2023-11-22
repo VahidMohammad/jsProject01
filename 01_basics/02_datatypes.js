@@ -7,7 +7,7 @@ String =""
 Boolean = true/false
 // null = standaloneValue  
 undefined = 
-Symbol = Unique
+Symbol = Unique // use in react
 
 console.log(typeof null); // object
 console.log(typeof undefined); // undefined
