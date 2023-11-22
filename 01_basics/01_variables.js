@@ -2,7 +2,7 @@ variable.js
 
 const acountId = 77777
 let acountEmail = "riaAANKHA@s.com"
-var acountPassword = "123456"
+var acountPassword = "1234566"
 acountCity = "Shivpuri"
 let acountState
 
